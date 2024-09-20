@@ -1,0 +1,22 @@
+{
+  "name": "24racks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5",
+    "humanize-duration": "^3.32.1",
+    "megadb": "^3.4.0",
+    "ms": "^2.1.3",
+    "nodemon": "^3.1.5",
+    "uuid": "^10.0.0"
+  }
+}
