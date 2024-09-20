@@ -27,6 +27,7 @@ El token se obtiene en el **Portal** de discord
  ![image](https://user-images.githubusercontent.com/116461642/211119423-3a53f50e-372e-43a5-a133-e552b69abd2c.png)
  ![image](https://user-images.githubusercontent.com/116461642/211118181-7698e928-f3af-408a-8640-d674b97f8dff.png)
 
+![image](https://github.com/user-attachments/assets/3103f968-9458-40f5-b3a9-3330ab2b71b7)
 
 
 
