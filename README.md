@@ -12,7 +12,7 @@
   
 ```
  npm install
- npm run start - node ./src/index.js
+ npm run start o node ./src/index.js
 ```
 ## ⚠️ IMPORTANTE ⚠️
 El bot necesita de los `INTENT` de discord y un `TOKEN` para funcionar.
