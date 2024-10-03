@@ -9,7 +9,11 @@
 > Discord & Soporte: https://discord.gg/yHR67nQQWX
 
 * Si el bot te gusta no dudes en compartirlo con tus amigos
-
+  
+```
+ npm install
+ npm run start - node ./src/index.js
+```
 ## ⚠️ IMPORTANTE ⚠️
 El bot necesita de los `INTENT` de discord y un `TOKEN` para funcionar.
 
